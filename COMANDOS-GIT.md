@@ -64,3 +64,10 @@ git diff 2d1b0f0cc3b8219a916cdf2a56f55b83b9ceb725 bd2e699eeea067d8f85fbaf243c5b6
 ```
 gti commit --ammed -m "feat
 ```
+
+### Ramas
+```
+# listar ramas
+git branch
+#ver commits
+git commit --ammed -m "feat: modificado"
